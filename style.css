@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  padding: 200px;
+}
+.nizam {
+  background-color: white;
+  width: 95%;
+  height: 300px;
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.child {
+  background-color: pink;
+  width: 150px;
+  height: 150px;
+
+}
+
+.child2 {
+  background-color: pink;
+  width: 150px;
+  height: 160px;
+
+}
